@@ -1,6 +1,6 @@
 # rabbits
 
-A new Flutter project.
+Sebuah aplikasi sederhana untuk mengelola kelinci
 
 ## Getting Started
 
