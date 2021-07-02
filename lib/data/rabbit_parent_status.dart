@@ -1,0 +1,4 @@
+enum RabbitParentStatus {
+  none,
+  contain,
+}
