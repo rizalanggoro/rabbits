@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.iyaro.rabbits">
    <application
-        android:label="rabbits"
+        android:label="Rabbits"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
